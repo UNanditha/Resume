@@ -3,7 +3,11 @@
 ## Education
 [IIT Kharagpur](https://www.iitkgp.ac.in/)
 
-[Columbia University](https://www.columbia.edu/)
+[Columbia University](https://www.columbia.edu/) 
+
+## Research Interesets
+Sustainable nvesting
+Simplified GWP accounting
 
 
 
